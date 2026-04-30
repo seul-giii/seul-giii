@@ -36,6 +36,7 @@
 
 ### 📫 Contact & Channels
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:su06179@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@s-_-giii)
 
 <!--
 **seul-giii/seul-giii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
