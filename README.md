@@ -5,8 +5,8 @@
   
 </div>
 
-# 🚀 Hello, I'm [SeulGi Kim]
-**Geospatial Data & Backend Engineer**
+# 🚀 Hello, I'm SeulGi Kim
+**Data & Backend Engineer**
 
 ---
 
